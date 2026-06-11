@@ -17,6 +17,7 @@ npx opensquad install <skill-name>
 | [image-fetcher](./image-fetcher/) | hybrid | Acquire visual assets via web search, live screenshots (Playwright), and user-provided files. | _(none)_ | `npx opensquad install image-fetcher` |
 | [image-creator](./image-creator/) | mcp | Render HTML/CSS into production-ready PNG images via Playwright. | _(none)_ | `npx opensquad install image-creator` |
 | [image-generator](./image-generator/) | script | Generate AI images via Openrouter API. Test mode (cheap) and production mode (high-quality). Supports reference images for brand consistency. | `OPENROUTER_API_KEY` | `npx opensquad install image-generator` |
+| [copywriting-persuasivo](./copywriting-persuasivo/) | prompt | Write high-converting sales copy using distilled teachings from the greatest copywriting & persuasion books (Hopkins, Schwartz, Halbert, Ogilvy, Cialdini, and more). | _(none)_ | `npx opensquad install copywriting-persuasivo` |
 
 ## Skill Types
 
